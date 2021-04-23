@@ -10,7 +10,8 @@ SESSION_NAME = environ["SESSION_NAME"]
 PLUGINS = dict(
     root="plugins",
     include=[
-        "vc.restrim",
+        "vc.radio",
+        "vc.player",
         "ping",
         "sysinfo"
     ]
