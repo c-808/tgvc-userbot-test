@@ -4,7 +4,7 @@ from pyrogram import Client, idle
 PLUGINS = dict(
     root="plugins",
     include=[
-        "vc.player",
+        "vc.restrim",
         "ping",
         "sysinfo"
     ]
