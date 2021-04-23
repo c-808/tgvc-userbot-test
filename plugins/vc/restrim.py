@@ -6,8 +6,8 @@ from pytgcalls import GroupCallRaw
 import pyrogram
 
 # EDIT VALUES!
-PEER_ID = -1001239894073    # chat or channel where you want to get audio
-PEER_ID2 = -1001225640227    # chat or channel where you want to play audio
+PEER_ID = 1239894073    # chat or channel where you want to get audio
+PEER_ID2 = 1225640227    # chat or channel where you want to play audio
 
 # global variable to transfer audio data between voice chats
 # it's not a good implementation, but its works and so easy to understand
