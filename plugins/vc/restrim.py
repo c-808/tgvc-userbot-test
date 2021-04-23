@@ -6,8 +6,6 @@ from pytgcalls import GroupCallRaw
 import pyrogram
 
 # EDIT VALUES!
-API_HASH = "02423b23b1c16d7d0c0ec86a3ac07108"
-API_ID = 2088606
 PEER_ID = -1001239894073    # chat or channel where you want to get audio
 PEER_ID2 = -1001225640227    # chat or channel where you want to play audio
 
