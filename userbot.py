@@ -1,7 +1,7 @@
 from pyrogram import Client, idle
 
-api_id = 2088606
-api_hash = "02423b23b1c16d7d0c0ec86a3ac07108"
+api_id = ***
+api_hash = "***"
 
 plugins = dict(
     root="plugins",
